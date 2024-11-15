@@ -1,0 +1,26 @@
+{
+  "name": "seek-currency",
+  "version": "1.0.0",
+  "description": "currency converter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul-65-Patra/seek-currency.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Rahul Patra",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Rahul-65-Patra/seek-currency/issues"
+  },
+  "homepage": "https://github.com/Rahul-65-Patra/seek-currency#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
